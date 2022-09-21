@@ -1,6 +1,6 @@
-                                       HACKER RANK Assignment no. 1
+                                  
 
- Q1. https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true.
+ Q1. hello world
 ans-
              #include <iostream>
              using namespace std;
@@ -10,7 +10,7 @@ ans-
               return 0;
             }
 
-Q2. https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true.
+Q2. input and output
  ans-
         #include <iostream>
         using namespace std;
@@ -23,7 +23,7 @@ Q2. https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScr
       }
 
 
-Q3. https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true.
+Q3. basic data types
 ans-    
       #include <iostream>
       using namespace std;
@@ -43,7 +43,7 @@ ans-
       return 0;
      }
 
-  Q4. https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true.
+  Q4. loop problem
 
 ans-
         #include <iostream>
@@ -74,7 +74,7 @@ ans-
        return 0;
        }
 
-Q5. https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true.
+Q5. array
 ans 
 
      #include <iostream>
@@ -102,7 +102,7 @@ ans
    }
 
 
-Q6. https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true.
+Q6. function
 ans 
 
  #include <iostream>
@@ -129,7 +129,7 @@ int main() {
     return 0;
 }
 
-Q7. https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true.
+Q7. string
 ans 
     #include <iostream>
 #include <string>
@@ -150,7 +150,7 @@ int main()
     return 0;
 }
 
-Q8. https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true.
+Q8. pointer
  ans-
 
       #include <iostream>
