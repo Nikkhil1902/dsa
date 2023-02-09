@@ -1,4 +1,6 @@
-bool has_cycle(SinglyLinkedListNode* head) {
+Q-Cycle Detection.cpp
+ 
+ bool has_cycle(SinglyLinkedListNode* head) {
 SinglyLinkedListNode* cur1 = head;
     SinglyLinkedListNode* cur2 = head;
     int result = 0;
@@ -20,3 +22,4 @@ SinglyLinkedListNode* cur1 = head;
     return result;
 
 }
+
